@@ -2,18 +2,11 @@
 	<html>
 		<head>
 			{% include ga.html %}
-
-			{% include gtm-head.html %}
-
 			{% include icons.html %}
-
 			<title>{{ page.title }}</title>
-
 			<link rel="stylesheet" type="text/css" href="/css/main.css?{{site.time | date: '%s%N'}}">
 		</head>
 		<body>
-			{% include gtm-body.html %}
-			
 			<nav>
 	    			<ul>
 	        			<li><a href="/">Home</a></li>
@@ -23,9 +16,7 @@
 	    			</ul>
 			</nav>
 			<div class="container">
-			
 			{{ content }}
-			
 			</div>
 			<footer>
 	    		<ul>
