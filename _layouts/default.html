@@ -7,15 +7,15 @@
 			<title>{{ page.title }}</title>
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 			<meta name="theme-color" content="#157878">
-			<link rel="stylesheet" type="text/css" href="/assets/css/styles.css?{{site.time | date: '%s%N'}}">
+			<link rel="stylesheet" type="text/css" href="{{site.url}}/assets/css/styles.css?{{site.time | date: '%s%N'}}">
 		</head>
 		<body>	
 			<section class="page-header">
 				<h1 class="project-name">{{ site.title }}</h1>
 				<h2 class="project-tagline">{{ site.description }}</h2>      
-				<a href="/" class="btn">Home</a>
-				<a href="/about" class="btn">About</a>
-				<a href="/blog" class="btn">Blog</a>
+				<a href="{{site.url}}/" class="btn">Home</a>
+				<a href="{{site.url}}/about" class="btn">About</a>
+				<a href="{{site.url}}/blog" class="btn">Blog</a>
 			</section>
 
 			<section class="main-content">
