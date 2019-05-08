@@ -1,8 +1,10 @@
 name: Mads Storm Hansen
 title: Mads Storm Hansen
+url: https://madsstorm.dk
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
