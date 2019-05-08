@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mads Storm Hansen, Launches Site"
+title: "Launches Site"
 image: assets/images/airplane-architectural-design.jpg
 date: 2019-05-06
 ---
