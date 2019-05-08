@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Launches Site
+description: Jekyll powered site on GitHub Pages
 permalink: launches-site
 image: assets/images/airplane-architectural-design.jpg
 date: 2019-05-06
