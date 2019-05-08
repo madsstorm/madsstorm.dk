@@ -1,6 +1,12 @@
 name: Mads Storm Hansen
 title: Mads Storm Hansen
+subtitle:
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 url: https://madsstorm.dk
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 10
+sass:
+  style: compressed
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
