@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Launches Site"
-permalink: "launches-site"
+title: Launches Site
+permalink: launches-site
 image: assets/images/airplane-architectural-design.jpg
 date: 2019-05-06
 ---
