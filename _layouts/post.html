@@ -14,7 +14,7 @@
 			<meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
 			<p>{{ page.date | date_to_long_string }}</p>
 		{% endif %}
-		<p>{{ content }}</p>
+		<p itemprop="articleBody">{{ content }}</p>
 	</div>
 </section>
 </div>
