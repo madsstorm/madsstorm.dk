@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Mads Storm Hansen, Launches Site"
+title: Launches Site
+description: Jekyll powered site on GitHub Pages
+permalink: launches-site
 image: assets/images/airplane-architectural-design.jpg
+image-alt: Axel Towers, Copenhagen
 date: 2019-05-06
 ---
 
