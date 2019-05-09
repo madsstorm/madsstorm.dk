@@ -1,7 +1,6 @@
 ---
 layout: allposts
 title: All posts
-permalink: /all-posts
 landing-title: 'All posts'
 nav-menu: true
 description: null
