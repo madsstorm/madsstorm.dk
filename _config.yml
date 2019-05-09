@@ -5,6 +5,9 @@ description: A web developer living in Copenhagen.
 url: https://madsstorm.dk
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 10
+github_url: https://github.com/madsstorm
+twitter_url: https://twitter.com/madsstorm
+linkedin_url: https://www.linkedin.com/in/madsstormhansen
 sass:
   style: compressed
 markdown: kramdown
