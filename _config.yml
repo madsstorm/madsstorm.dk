@@ -3,6 +3,7 @@ title: Mads Storm Hansen
 subtitle: Web developer
 description: A web developer living in Copenhagen.
 url: https://madsstorm.dk
+static-url: https://static-madsstorm-dk.azurewebsites.net
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 10
 github_url: https://github.com/madsstorm
