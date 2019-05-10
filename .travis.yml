@@ -1,1 +1,5 @@
 language: ruby
+
+script:
+  - bundle exec jekyll build --future
+  - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
