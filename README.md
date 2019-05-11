@@ -7,6 +7,4 @@
 Powered by
 * [Jekyll](https://jekyllrb.com)
 * [Travis CI](https://travis-ci.org)
-* [Codacy](https://www.codacy.com)
-* [Code climate](https://codeclimate.com)
 * [GitHub Pages](https://pages.github.com)
