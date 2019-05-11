@@ -20,3 +20,6 @@ plugins:
   - jemoji
 exclude:
   - Gemfile
+  - rakefile
+  - CNAME
+  - README.md
