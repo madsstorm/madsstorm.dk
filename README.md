@@ -8,3 +8,4 @@ Powered by
   * [Jekyll](https://jekyllrb.com)
   * [Travis CI](https://travis-ci.org)
   * [GitHub Pages](https://pages.github.com)
+  * [Cloudflare](https://www.cloudflare.com/)
