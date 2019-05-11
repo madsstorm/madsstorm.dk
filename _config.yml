@@ -4,8 +4,8 @@ subtitle: Web developer
 description: A web developer living in Copenhagen
 url: https://madsstorm.dk
 static-url: https://madsstorm.dk
-permalink: /blog/:year/:month/:title
-tiles-source: posts # accepts "posts" or "pages"
+permalink: /blog/:year/:month/:title/ # Trailing slash generates "folder + index.html" (For AWS S3 hosting)
+tiles-source: posts # Accepts "posts" or "pages"
 tiles-count: 10
 github_url: https://github.com/madsstorm
 twitter_url: https://twitter.com/madsstorm
