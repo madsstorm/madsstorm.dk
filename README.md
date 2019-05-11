@@ -5,6 +5,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/e0661cf69035e308840e/maintainability)](https://codeclimate.com/github/madsstorm/madsstorm.github.io/maintainability) 
 
 Powered by
-* [Jekyll](https://jekyllrb.com)
-* [Travis CI](https://travis-ci.org)
-* [GitHub Pages](https://pages.github.com)
+  * [Jekyll](https://jekyllrb.com)
+  * [Travis CI](https://travis-ci.org)
+  * [GitHub Pages](https://pages.github.com)
