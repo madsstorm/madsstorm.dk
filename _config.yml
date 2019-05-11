@@ -18,8 +18,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-assets
 exclude:
   - Gemfile
   - rakefile
   - README.md
   - s3_website.yml
+assets:
+  sources:
+    - _sass
+    - assets
