@@ -7,3 +7,4 @@ gem 'jekyll-seo-tag'
 gem 'jemoji'
 
 gem 'html-proofer'
+gem 's3_website'
