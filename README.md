@@ -1,6 +1,7 @@
 # madsstorm.dk
 
 [![Build Status](https://travis-ci.org/madsstorm/madsstorm.dk.svg?branch=master)](https://travis-ci.org/madsstorm/madsstorm.dk)
+[![Coverage Status](https://coveralls.io/repos/github/madsstorm/madsstorm.dk/badge.svg?branch=master)](https://coveralls.io/github/madsstorm/madsstorm.dk?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/97d5d9190d6c4f8c9f3df8824c2d15e8)](https://www.codacy.com/app/madsstorm/madsstorm.dk)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/alerts/)
