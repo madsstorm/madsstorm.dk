@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/madsstorm/madsstorm.dk.svg?branch=master)](https://travis-ci.org/madsstorm/madsstorm.dk)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/97d5d9190d6c4f8c9f3df8824c2d15e8)](https://www.codacy.com/app/madsstorm/madsstorm.dk)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/alerts/)
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782640528-9c7f88d1914bf3b2710ddd5b.svg?style=popout)](https://uptimerobot.com/dashboard.php#782640528)
 [![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/madsstorm.dk.svg?style=popout)](https://observatory.mozilla.org/analyze/madsstorm.dk)
 [![SSL Rating](https://sslbadge.org/?domain=madsstorm.dk)](https://www.ssllabs.com/ssltest/analyze.html?d=madsstorm.dk)
