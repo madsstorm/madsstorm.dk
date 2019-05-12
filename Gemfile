@@ -9,4 +9,5 @@ gem 'jekyll-assets'
 gem 'sprockets', '~> 3.7', '>= 3.7.2'
 
 gem 'html-proofer'
+gem 'coveralls', require: false
 gem 's3_website'
