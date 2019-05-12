@@ -1,3 +1,5 @@
 language: ruby
-script: bundle exec rake test
+
+script: "./script/cibuild"
+
 after_success: s3_website push
