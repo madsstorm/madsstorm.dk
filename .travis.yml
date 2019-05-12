@@ -2,6 +2,7 @@ language: ruby
 
 script:
   - bundle exec jekyll build --future
+  - ruby /test/test_helper.rb
   - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --assume-extension
 
 after_success: s3_website push
