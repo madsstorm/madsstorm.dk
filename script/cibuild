@@ -1,2 +1,4 @@
+#!/bin/sh
+
 title "checking site"
 bundle exec rake test
