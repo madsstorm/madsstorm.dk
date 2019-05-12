@@ -1,5 +1,5 @@
 language: ruby
-dist:trusty
+dist: trusty
 
 before_install:
  - chmod +x script/cibuild
