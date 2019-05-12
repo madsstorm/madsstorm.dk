@@ -1,5 +1,5 @@
-require 'html-proofer'
 require './test/test_helper'
+require 'html-proofer'
 
 desc "build and test website"
 task :test do
