@@ -1,7 +1,5 @@
 #!/bin/sh
 
-title "checking site"
 bundle exec rake test
 
-title "unit test"
 ruby test/dummy_test.rb
