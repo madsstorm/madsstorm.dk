@@ -1,4 +1,5 @@
 require 'html-proofer'
+require './test/test_helper'
 
 desc "build and test website"
 task :test do
@@ -6,15 +7,7 @@ task :test do
   HTMLProofer.check_directory(
     "./_site",
     {
-      :disable_external => true,
-      :typhoeus => {
-        :followlocation => true,
-        :ssl_verifypeer => false,
-        :ssl_verifyhost => 0,
-        :headers => {
-          'User-Agent' => 'html-proofer'
-        }
-      }
+      :disable_external => true
     }
   ).run
 end
