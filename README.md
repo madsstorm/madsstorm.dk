@@ -1,8 +1,9 @@
 # madsstorm.dk
 
 [![Build Status](https://travis-ci.org/madsstorm/madsstorm.dk.svg?branch=master)](https://travis-ci.org/madsstorm/madsstorm.dk)
+[![Maintainability](https://api.codeclimate.com/v1/badges/0f0c0fa3435cdea031eb/maintainability)](https://codeclimate.com/github/madsstorm/madsstorm.dk/maintainability)
 [![Coverage Status](https://coveralls.io/repos/github/madsstorm/madsstorm.dk/badge.svg?branch=master)](https://coveralls.io/github/madsstorm/madsstorm.dk?branch=master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/97d5d9190d6c4f8c9f3df8824c2d15e8)](https://www.codacy.com/app/madsstorm/madsstorm.dk)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/0f0c0fa3435cdea031eb/test_coverage)](https://codeclimate.com/github/madsstorm/madsstorm.dk/test_coverage)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/alerts/)
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782640528-9c7f88d1914bf3b2710ddd5b.svg?style=popout)](https://uptimerobot.com/dashboard.php#782640528)
