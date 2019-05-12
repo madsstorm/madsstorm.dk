@@ -8,9 +8,6 @@
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/alerts/)
 
-[![Coverage Status](https://coveralls.io/repos/github/madsstorm/madsstorm.dk/badge.svg?branch=master)](https://coveralls.io/github/madsstorm/madsstorm.dk?branch=master)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/0f0c0fa3435cdea031eb/test_coverage)](https://codeclimate.com/github/madsstorm/madsstorm.dk/test_coverage)
-
 [![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/madsstorm.dk.svg?style=popout)](https://observatory.mozilla.org/analyze/madsstorm.dk)
 [![SSL Rating](https://sslbadge.org/?domain=madsstorm.dk)](https://www.ssllabs.com/ssltest/analyze.html?d=madsstorm.dk)
 [![Chromium HSTS preload](https://img.shields.io/hsts/preload/madsstorm.dk.svg?style=popout)](https://hstspreload.org/)
