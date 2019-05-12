@@ -10,6 +10,7 @@
 [![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/madsstorm.dk.svg?style=popout)](https://observatory.mozilla.org/analyze/madsstorm.dk)
 [![SSL Rating](https://sslbadge.org/?domain=madsstorm.dk)](https://www.ssllabs.com/ssltest/analyze.html?d=madsstorm.dk)
 [![Chromium HSTS preload](https://img.shields.io/hsts/preload/madsstorm.dk.svg?style=popout)](https://hstspreload.org/)
+![DNSSEC](https://img.shields.io/badge/DNSSEC-pending-lightgrey.svg)
 
 #### Powered by
 - [Jekyll](https://jekyllrb.com)
