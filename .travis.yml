@@ -1,5 +1,8 @@
 language: ruby
 
-script: "./script/cibuild"
+before_install:
+ - chmod +x script/cibuild
+ 
+script: script/cibuild
 
 after_success: s3_website push
