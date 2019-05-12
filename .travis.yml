@@ -1,8 +1,8 @@
 language: ruby
 rvm:
   - 2.4.1
-#sudo: false
-cache: bundler
+sudo: false
+#cache: bundler
 notifications:
   email: false
 env:
