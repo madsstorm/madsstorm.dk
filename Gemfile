@@ -8,10 +8,8 @@ gem 'jemoji'
 gem 'jekyll-assets'
 gem 'sprockets', '~> 3.7', '>= 3.7.2'
 
+gem 'html-proofer'
+gem 'rake'
 gem 'coveralls', require: false
-gem 's3_website'
 
-group :test do
-    gem 'rake'
-    gem 'html-proofer'
-  end
+gem 's3_website'
