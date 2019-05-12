@@ -1,5 +1,7 @@
 language: ruby
-
+addons:
+  apt:
+    packages:
+      - libssl1.0.0
 script: bundle exec rake test
-
 after_success: s3_website push
