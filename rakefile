@@ -6,6 +6,7 @@ task :test do
   HTMLProofer.check_directory(
     "./_site",
     {
+      :disable_external => true,
       :typhoeus => {
         :followlocation => true,
         :ssl_verifypeer => false,
