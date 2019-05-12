@@ -1,4 +1,3 @@
-require './test/test_helper'
 require 'html-proofer'
 
 desc "build and test website"
