@@ -1,7 +1,10 @@
 language: ruby
 
+sudo: required
+  
 before_install:
  - chmod +x script/cibuild
+ - sudo update-ca-certificates
  
 script: script/cibuild
 
