@@ -20,6 +20,7 @@ plugins:
   - jemoji
   - jekyll-assets
   - jekyll-git_metadata
+  - jekyll-cloudinary
 exclude:
   - vendor
   - Gemfile
@@ -30,3 +31,15 @@ assets:
   sources:
     - _sass
     - assets
+cloudinary:
+  cloud_name: doedxrcnd
+  only_prod: true
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      steps: 5
+    tile:
+      min_width: 320
+      max_width: 960
+      steps: 3

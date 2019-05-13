@@ -146,7 +146,7 @@
 				// Image.
 
 					// Set image.
-						$this.css('background-image', 'url(' + $img.attr('src') + ')');
+						$this.css('background-image', 'url(' + $img.prop('currentSrc') + ')');
 
 					// Set position.
 						if (x = $img.data('position'))
@@ -234,7 +234,7 @@
 					if ($image.length > 0) {
 
 						// Set image.
-							$this.css('background-image', 'url(' + $img.attr('src') + ')');
+							$this.css('background-image', 'url(' + $img.prop('currentSrc') + ')');
 
 						// Hide original.
 							$image.hide();

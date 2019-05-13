@@ -11,7 +11,7 @@ layout: root
 	    </header>
       {%- if post.image -%}
         <span class="image main">
-          {%- asset '{{ post.image }}' alt="{{ post.image-alt }}" -%}
+          {% cloudinary {{ post.image }} alt="{{ post.image-alt }}" %}
         </span>
       {%- endif -%}
 	    {%- if post.date -%}<p>{{ post.date | date_to_long_string }}</p>{%- endif -%}

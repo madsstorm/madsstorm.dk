@@ -4,7 +4,7 @@ layout: root
 <section id="banner" class="style2">
     <div class="inner">
         <span class="image">
-            {%- asset '{{ page.image }}' alt="{{ page.image-alt }}" -%}
+            {% cloudinary {{ page.image }} alt="{{ page.image-alt }}" %}
         </span>
         <header class="major">
             <h1>{{ page.title }}</h1>
