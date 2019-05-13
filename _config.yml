@@ -31,6 +31,10 @@ assets:
   sources:
     - _sass
     - assets
+  defaults:
+    js: { integrity: false }
+    css: { integrity: false }
+    img: { integrity: false }
 cloudinary:
   cloud_name: doedxrcnd
   only_prod: true
