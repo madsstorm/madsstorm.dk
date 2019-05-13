@@ -19,6 +19,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-assets
+  - jekyll-git_metadata
 exclude:
   - vendor
   - Gemfile
