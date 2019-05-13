@@ -11,7 +11,11 @@ env:
 
 before_install:
  - chmod +x script/cibuild
- 
+
+branches:
+  only:
+    - master
+
 script: script/cibuild
   
 after_success: s3_website push
