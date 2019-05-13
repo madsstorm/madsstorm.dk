@@ -1,21 +1,16 @@
-<!DOCTYPE html>
-<html>
-{% include head.html %}
-<body>
-    {% include header.html %}
-    <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ page.landing-title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-            </div>
+---
+layout: root
+---
+<section id="banner" class="major">
+    <div class="inner">
+        <header class="major">
+            <h1>{{ page.landing-title }}</h1>
+        </header>
+        <div class="content">
+            <p style="text-transform: uppercase;">{{ site.description }}</p>
         </div>
-    </section>
-    <div id="main">
-        {% include tiles.html %}
     </div>
-    {% include footer.html %}
-</body>
-</html>
+</section>
+<div id="main">
+    {% include tiles.html %}
+</div>
