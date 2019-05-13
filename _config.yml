@@ -43,7 +43,3 @@ cloudinary:
       min_width: 320
       max_width: 1600
       steps: 5
-    tile:
-      min_width: 320
-      max_width: 960
-      steps: 3
