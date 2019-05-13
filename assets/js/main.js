@@ -118,9 +118,6 @@
 			if (skel.vars.browser == 'ie' || skel.vars.browser == 'edge')
 				$body.addClass('is-ie');
 
-		// Fix: Placeholder polyfill.
-			$('form').placeholder();
-
 		// Prioritize "important" elements on medium.
 			skel.on('+medium -medium', function() {
 				$.prioritize(
