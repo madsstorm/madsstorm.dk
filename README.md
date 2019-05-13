@@ -17,3 +17,4 @@
 - [Travis CI](https://travis-ci.org)
 - [Amazon S3](https://aws.amazon.com/s3)
 - [Cloudflare](https://www.cloudflare.com/)
+- [Cloudinary](https://cloudinary.com/)
