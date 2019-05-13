@@ -7,14 +7,14 @@ layout: root
 			<header class="major">
 				<h1>{{ page.title }}</h1>
 			</header>
-			{% if page.image %}
+			{%- if page.image -%}
 				<span class="image main">
-					{% asset '{{ page.image }}' alt="{{ page.image-alt }}" %}
+					{%- asset '{{ page.image }}' alt="{{ page.image-alt }}" -%}
 				</span>
-			{% endif %}
-			{% if page.date %}
+			{%- endif -%}
+			{%- if page.date -%}
 				<p>{{ page.date | date_to_long_string }}</p>
-			{% endif %}
+			{%- endif -%}
 			{{ content }}
 		</div>
 	</section>
