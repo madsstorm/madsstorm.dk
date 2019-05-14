@@ -9,6 +9,7 @@ gem 'jekyll-assets'
 gem 'sprockets', '~> 3.7', '>= 3.7.2'
 gem 'jekyll-git_metadata'
 gem 'jekyll-cloudinary'
+gem 'jekyll-redirect-from'
 
 gem 'html-proofer'
 gem 'test-unit'
