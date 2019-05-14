@@ -13,8 +13,8 @@
 [![DNSSEC](https://img.shields.io/badge/DNSSEC-active-brightgreen.svg)](http://dnsviz.net/d/madsstorm.dk/dnssec/)
 
 #### Powered by
-<div><a href="https://jekyllrb.com" rel="nofollow"><img src="/github_doc/jekyll-logo-black-red-transparent.png"/></a></div>
-<div><a href="https://travis-ci.org" rel="nofollow"><img src="/github_doc/TravisCI-Full-Color.png"/></a></div>
-<div><a href="https://aws.amazon.com/s3" rel="nofollow"><img src="/github_doc/amazon-s3-default.svg"/></a></div>
-<div><a href="https://www.cloudflare.com/" rel="nofollow"><img src="/github_doc/logo-cloudflare-dark.svg"/></a></div>
-<div><a href="https://cloudinary.com/" rel="nofollow"><img src="/github_doc/cloudinary_vertical_logo_for_white_bg.svg"/></a></div>
+[![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com)
+[![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org)
+[![Amazon S3](/github_doc/amazon-s3-default.svg)](https://aws.amazon.com/s3)
+[![Cloudflare](/github_doc/logo-cloudflare-dark.svg)](https://www.cloudflare.com)
+[![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.svg)](https://www.cloudinary.com)
