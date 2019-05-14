@@ -3,6 +3,7 @@
 </p>
 
 [![Build Status](https://travis-ci.org/madsstorm/madsstorm.dk.svg?branch=master)](https://travis-ci.org/madsstorm/madsstorm.dk)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/971731f3-90c7-4d1c-b011-2cd9daaec43f/deploy-status)](https://app.netlify.com/sites/madsstorm-dk/deploys)
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782640528-9c7f88d1914bf3b2710ddd5b.svg?style=popout)](https://uptimerobot.com/dashboard.php#782640528)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0f0c0fa3435cdea031eb/maintainability)](https://codeclimate.com/github/madsstorm/madsstorm.dk/maintainability)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/context:javascript)
