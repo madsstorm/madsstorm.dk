@@ -8,9 +8,8 @@
 
 		var key = '__prioritize';
 
-		// Expand $elements if it's not already a jQuery object.
-			if (typeof $elements != 'jQuery')
-				$elements = $($elements);
+		// Expand $elements
+		$elements = $($elements);
 
 		// Step through elements.
 			$elements.each(function() {
