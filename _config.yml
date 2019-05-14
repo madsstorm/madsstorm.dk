@@ -23,6 +23,7 @@ plugins:
   - jekyll-cloudinary
 include:
   - _redirects
+  - _headers
 exclude:
   - github_doc
   - vendor
