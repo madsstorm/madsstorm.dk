@@ -13,8 +13,8 @@
 [![DNSSEC](https://img.shields.io/badge/DNSSEC-active-brightgreen.svg)](http://dnsviz.net/d/madsstorm.dk/dnssec/)
 
 #### Powered by
-- [Jekyll](https://jekyllrb.com)
-- [Travis CI](https://travis-ci.org)
-- [Amazon S3](https://aws.amazon.com/s3)
-- [Cloudflare](https://www.cloudflare.com/)
-- [Cloudinary](https://cloudinary.com/)
+- [Jekyll static site generator](https://jekyllrb.com)
+- [Travis continous integration](https://travis-ci.org)
+- [Amazon S3 cloud storage](https://aws.amazon.com/s3)
+- [Cloudflare CDN/proxy](https://www.cloudflare.com/)
+- [Cloudinary responsive images](https://cloudinary.com/)
