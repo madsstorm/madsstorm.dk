@@ -13,8 +13,8 @@
 [![DNSSEC](https://img.shields.io/badge/DNSSEC-active-brightgreen.svg)](http://dnsviz.net/d/madsstorm.dk/dnssec/)
 
 #### Powered by
-- [Jekyll static site generator](https://jekyllrb.com)
-- [Travis continous integration](https://travis-ci.org)
-- [Amazon S3 cloud storage](https://aws.amazon.com/s3)
-- [Cloudflare CDN/proxy](https://www.cloudflare.com/)
-- [Cloudinary responsive images](https://cloudinary.com/)
+[![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com)
+[![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org)
+[![Amazon S3](/github_doc/amazon-s3-default.svg)](https://aws.amazon.com/s3)
+[![Cloudflare](/github_doc/logo-cloudflare-dark.svg)](https://www.cloudflare.com)
+[![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.svg)](https://www.cloudinary.com)
