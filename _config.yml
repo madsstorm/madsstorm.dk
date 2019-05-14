@@ -1,7 +1,7 @@
 name: Mads Storm Hansen
 title: Mads Storm Hansen
 subtitle: Web developer
-description: A web developer living in Copenhagen.
+description: A web developer living in Copenhagen
 url: https://madsstorm.dk
 static-url: https://madsstorm.dk
 permalink: /blog/:year/:month/:title/ # Trailing slash generates "folder + index.html" (For AWS S3 hosting)
