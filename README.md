@@ -13,8 +13,9 @@
 [![DNSSEC](https://img.shields.io/badge/DNSSEC-active-brightgreen.svg)](http://dnsviz.net/d/madsstorm.dk/dnssec/)
 
 #### Powered by
-[![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com)
-[![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org)
-[![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3)
-[![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com)
-[![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com)
+| [![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com) | Static site generator |
+|:-:|:-:|
+| [![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org) | Continous integration |
+| [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | Cloud storage |
+| [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN/Firewall/Proxy |
+| [![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
