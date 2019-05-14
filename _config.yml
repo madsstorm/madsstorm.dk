@@ -22,6 +22,7 @@ plugins:
   - jekyll-git_metadata
   - jekyll-cloudinary
 exclude:
+  - github_doc
   - vendor
   - Gemfile
   - rakefile
