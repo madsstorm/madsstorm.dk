@@ -1,4 +1,6 @@
-# madsstorm.dk
+<p align="center">
+<img src="/android-chrome-192x192.png" alt="madsstorm.dk" title="madsstorm.dk" style="max-width:100%;">
+</p>
 
 [![Build Status](https://travis-ci.org/madsstorm/madsstorm.dk.svg?branch=master)](https://travis-ci.org/madsstorm/madsstorm.dk)
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782640528-9c7f88d1914bf3b2710ddd5b.svg?style=popout)](https://uptimerobot.com/dashboard.php#782640528)
