@@ -1,10 +1,10 @@
 {
   "hosting": {
     "public": "_site",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    "ignore": [ "firebase.json", "**/.*", "**/node_modules/**"],
+    "headers": [{
+      "source" : "**",
+      "headers": [{ "key": "Mads", "value":"Storm" }]
+    }]
   }
 }
