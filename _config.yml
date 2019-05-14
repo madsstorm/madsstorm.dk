@@ -21,6 +21,8 @@ plugins:
   - jekyll-assets
   - jekyll-git_metadata
   - jekyll-cloudinary
+include:
+  - _redirects
 exclude:
   - github_doc
   - vendor
