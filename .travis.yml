@@ -7,11 +7,13 @@ notifications:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-before_install:
-- chmod +x script/cibuild
 branches:
   only:
   - master
+before_install:
+- chmod +x script/cibuild
+before_script:
+  - npm install firebase-tools -g
 script: script/cibuild
 after_success:
   - s3_website push
