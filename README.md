@@ -13,10 +13,8 @@
 [![DNSSEC](https://img.shields.io/badge/DNSSEC-active-brightgreen.svg)](http://dnsviz.net/d/madsstorm.dk/dnssec/)
 
 #### Powered by
-<ul style="list-style: none;">
-<li><a href="https://jekyllrb.com" rel="nofollow"><img src="/github_doc/jekyll-logo.png"/>Jekyll static site generator</a></li>
-<li><a href="https://travis-ci.org" rel="nofollow">Travis continous integration</a></li>
-<li><a href="https://aws.amazon.com/s3" rel="nofollow">Amazon S3 cloud storage</a></li>
-<li><a href="https://www.cloudflare.com/" rel="nofollow">Cloudflare CDN/proxy</a></li>
-<li><a href="https://cloudinary.com/" rel="nofollow">Cloudinary responsive images</a></li>
-</ul>
+<div><a href="https://jekyllrb.com" rel="nofollow"><img src="/github_doc/jekyll-logo.png"/>Jekyll static site generator</a></div>
+<div><a href="https://travis-ci.org" rel="nofollow">Travis continous integration</a></div>
+<div><a href="https://aws.amazon.com/s3" rel="nofollow">Amazon S3 cloud storage</a></div>
+<div><a href="https://www.cloudflare.com/" rel="nofollow">Cloudflare CDN/proxy</a></div>
+<div><a href="https://cloudinary.com/" rel="nofollow">Cloudinary responsive images</a></div>
