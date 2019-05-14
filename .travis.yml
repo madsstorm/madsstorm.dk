@@ -1,21 +1,21 @@
 language: ruby
 rvm:
-  - 2.4.1
+- 2.4.1
 sudo: false
-#cache: bundler
 notifications:
   email: false
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 before_install:
- - chmod +x script/cibuild
-
+- chmod +x script/cibuild
 branches:
   only:
-    - master
-
+  - master
 script: script/cibuild
-  
 after_success: s3_website push
+deploy:
+  provider: firebase
+  token:
+    secure: "qSIX7ARBxU3gg/+AjI/zwbRAeyjD8yyzJ9ZTBvP8SPeXWvn9QUzk7acAzKuWeeCb6kzNaL3Wfk2HBM1RvrqdjkePqGpmBVNIdQUxKig8GqDwpC1ZsGwryEdrwB+MPORGVempdi9KgkqU0cKf4+LKKU8+LQT0HenoaD+Nd1QbsFtAP0r4tEIiGxN86qBmlMGO777H/fNbJhMms04DGtjR48owdmbosxLJGiTAP+gVK7whtFoYvf6QqM3DOQPzCPzrSTYdKnh/o6KCpOkQqNTo8JOUv7QDQBBf0SdYt4OJFeKge7ARkUHiO5XVRe5gxV+W+TwC9yT7OQysN6poXFnzmq9erH5R+o2xZGQwKUIFA1Cs2LwW7fKW+jrRXFBXoOV5FVeDtkayZwXowlOU/jp1GjO4KtHrwbS76Lhxu35Hm6rw1UwbugeLagTtahIKsRLBxnbsHfpJHAFKmkC6paEM/F0L9AfcDBZa1Az5BSIPlnuxufsWgJSPJBAvK6tnUy6FgH4FcalSzJ6+P8/y1rqw1/l87PtT5wNOCDpKwt+jgJDvlKc79pWJlXtyYncu6BgDDrtgX8d3+3lLzHrqhXE5FH+ZUCuAgpnvK9ZwpvqRw0SoGJBtyymFHU7ZHAHCmtQnNXwkavq29pcAKM7F+0zasr6b7ud62SfTq80bs0Z12/M="
+    project: "madsstormdk"
