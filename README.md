@@ -20,3 +20,8 @@
 | [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | Cloud storage |
 | [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN/Firewall/Proxy |
 | [![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
+
+#### Tried but skipped again
+| [![GitHub pages](/github_doc/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
+|:-:|:-:|
+| | |
