@@ -15,6 +15,6 @@
 #### Powered by
 [![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com)
 [![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org)
-[![Amazon S3](/github_doc/amazon-s3-default.svg)](https://aws.amazon.com/s3)
-[![Cloudflare](/github_doc/logo-cloudflare-dark.svg)](https://www.cloudflare.com)
-[![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.svg)](https://www.cloudinary.com)
+[![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3)
+[![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com)
+[![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com)
