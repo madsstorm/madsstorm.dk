@@ -139,9 +139,11 @@
 			$tiles.each(function() {
 
 				var $this = $(this),
-					$image = $this.find('.image'), $img = $image.find('img'),
+					$image = $this.find('.image'),
+					$img = $image.find('img'),
 					$link = $this.find('.link'),
-					x;
+					imgpos,
+					$linkclone;
 
 				// Image.
 
@@ -149,8 +151,8 @@
 						$this.css('background-image', 'url(' + $img.prop('currentSrc') + ')');
 
 					// Set position.
-						if (x = $img.data('position'))
-							$image.css('background-position', x);
+						if (imgpos = $img.data('position'))
+							$image.css('background-position', imgpos);
 
 					// Hide original.
 						$image.hide();
@@ -158,12 +160,12 @@
 				// Link.
 					if ($link.length > 0) {
 
-						$x = $link.clone()
+						$linkclone = $link.clone()
 							.text('')
 							.addClass('primary')
 							.appendTo($this);
 
-						$link = $link.add($x);
+						$link = $link.add($linkclone);
 
 						$link.on('click', function(event) {
 
