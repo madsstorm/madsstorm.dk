@@ -17,11 +17,12 @@
 | [![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com) | Static site generator |
 |:-:|:-:|
 | [![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org) | Continous integration |
-| [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | Cloud storage |
+| [![Netlify](/github_doc/netlify-full-logo-light.png)](https://www.netlify.com) | Primary hosting |
+| [![Firebase](/github_doc/firebase-logo-standard.png)](https://firebase.google.com) | Secondary hosting |
 | [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN/Firewall/Proxy |
 | [![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
 
 #### Tried but skipped again
 | [![GitHub pages](/github_doc/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
 |:-:|:-:|
-| | |
+| [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | So much trouble for HTTPS<br>and custom HTTP headers |
