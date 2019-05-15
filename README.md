@@ -2,8 +2,8 @@
 <img src="/android-chrome-192x192.png" alt="madsstorm.dk" title="madsstorm.dk" style="max-width:100%;">
 </p>
 
-[![Build Status](https://travis-ci.org/madsstorm/madsstorm.dk.svg?branch=master)](https://travis-ci.org/madsstorm/madsstorm.dk)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/971731f3-90c7-4d1c-b011-2cd9daaec43f/deploy-status)](https://app.netlify.com/sites/madsstorm-dk/deploys)
+[![Build Status](https://travis-ci.org/madsstorm/madsstorm.dk.svg?branch=master)](https://travis-ci.org/madsstorm/madsstorm.dk)
 [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782640528-9c7f88d1914bf3b2710ddd5b.svg?style=popout)](https://uptimerobot.com/dashboard.php#782640528)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0f0c0fa3435cdea031eb/maintainability)](https://codeclimate.com/github/madsstorm/madsstorm.dk/maintainability)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/context:javascript)
@@ -17,12 +17,12 @@
 | [![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com) | Static site generator |
 |:-:|:-:|
 | [![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org) | Continous integration |
-| [![Netlify](/github_doc/netlify-full-logo-light.png)](https://www.netlify.com) | Primary hosting |
-| [![Firebase](/github_doc/firebase-logo-standard.png)](https://firebase.google.com) | Secondary hosting |
-| [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN/Firewall/Proxy |
+| [![Netlify](/github_doc/netlify-full-logo-light.png)](https://www.netlify.com) | Build/deploy/host |
+| [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN/firewall/proxy |
 | [![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
 
 #### Tried but skipped again
 | [![GitHub pages](/github_doc/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
 |:-:|:-:|
 | [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | So much trouble for HTTPS<br>and custom HTTP headers |
+| [![Firebase](/github_doc/firebase-logo-standard.png)](https://firebase.google.com) | Could not hide Firebase domains |
