@@ -6,7 +6,8 @@ task :test do
   HTMLProofer.check_directory(
     "./_site",
     {
-      :disable_external => true
+      :disable_external => true,
+      :assume_extension => true
     }
   ).run
 end
