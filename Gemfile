@@ -14,6 +14,6 @@ gem 'jekyll-redirect-from'
 gem 'html-proofer'
 gem 'test-unit'
 gem 'rake'
-gem 'coveralls', require: false
+#gem 'coveralls', require: false
 
-gem 's3_website'
+#gem 's3_website'
