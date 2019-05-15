@@ -17,4 +17,4 @@ before_script:
 script: script/cibuild
 after_success:
 #  - s3_website push
-  - firebase deploy --only hosting --token "$FIREBASE_TOKEN"
+#  - firebase deploy --only hosting --token "$FIREBASE_TOKEN"
