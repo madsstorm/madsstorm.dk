@@ -5,6 +5,16 @@
     "headers": [{
       "source" : "**",
       "headers": [{ "key": "Mads", "value":"Fb. Storm" }]
+    }],
+    "redirects": [{
+      "source": "http://madsstormdk.web.app/:path",
+      "destination": "https://madsstorm.dk/:path",
+      "type": 301
+    },
+    {
+      "source": "https://madsstormdk.web.app/:path",
+      "destination": "https://madsstorm.dk/:path",
+      "type": 301
     }]
   }
 }
