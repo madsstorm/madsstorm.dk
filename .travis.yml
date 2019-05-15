@@ -16,5 +16,5 @@ before_script:
   - npm install firebase-tools -g
 script: script/cibuild
 after_success:
-  - s3_website push
+#  - s3_website push
   - firebase deploy --only hosting --token "$FIREBASE_TOKEN"
