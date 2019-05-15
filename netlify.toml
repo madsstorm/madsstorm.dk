@@ -18,4 +18,4 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "no-referrer"
-    Content-Security-Policy = "default-src https:; object-src 'none'; media-src 'none'; frame-ancestors 'none'"
+    Content-Security-Policy-Report-Only = "default-src 'none'; form-action 'none'; frame-ancestors 'none'; report-uri https://madsstormdk.report-uri.com/r/d/csp/wizard"
