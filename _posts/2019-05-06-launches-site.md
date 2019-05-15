@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Launches Site
-description: Jekyll powered site on GitHub Pages
+description: Jekyll powered site on Netlify
 image: /assets/images/aircraft-airplane-architectural-design-1920.jpg
 image-alt: Axel Towers, Copenhagen
 date: 2019-05-06
