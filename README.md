@@ -24,5 +24,5 @@
 #### Tried but skipped again
 | [![GitHub pages](/github_doc/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
 |:-:|:-:|
-| [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | So much trouble for HTTPS<br>and custom HTTP headers |
-| [![Firebase](/github_doc/firebase-logo-standard.png)](https://firebase.google.com) | Could not hide Firebase domains |
+| [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | Too much trouble for HTTPS<br>and custom HTTP headers |
+| [![Firebase](/github_doc/firebase-logo-standard.png)](https://firebase.google.com) | Could not hide default Firebase domains |
