@@ -1,3 +1,5 @@
 # Redirects for Netlify
 
+http://madsstorm-dk.netlify.com/* https://madsstorm.dk/:splat 301!
+https://madsstorm-dk.netlify.com/* https://madsstorm.dk/:splat 301!
 /*    /404/index.html    404
