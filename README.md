@@ -17,8 +17,8 @@
 | [![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com) | Static site generator |
 |:-:|:-:|
 | [![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org) | Continous integration |
-| [![Netlify](/github_doc/netlify-full-logo-light.png)](https://www.netlify.com) | Primary hosting |
-| [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN/Firewall/Proxy |
+| [![Netlify](/github_doc/netlify-full-logo-light.png)](https://www.netlify.com) | Build/deploy/host |
+| [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN/firewall/proxy |
 | [![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
 
 #### Tried but skipped again
