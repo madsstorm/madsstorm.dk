@@ -15,6 +15,16 @@
       "source": "https://madsstormdk.web.app/:path",
       "destination": "https://madsstorm.dk/:path",
       "type": 301
+    },
+    {
+      "source": "http://madsstormdk.firebaseapp.com/:path",
+      "destination": "https://madsstorm.dk/:path",
+      "type": 301
+    },
+    {
+      "source": "https://madsstormdk.firebaseapp.com/:path",
+      "destination": "https://madsstorm.dk/:path",
+      "type": 301
     }]
   }
 }
