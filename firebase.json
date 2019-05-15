@@ -4,7 +4,7 @@
     "ignore": [ "firebase.json", "**/.*", "**/node_modules/**"],
     "headers": [{
       "source" : "**",
-      "headers": [{ "key": "Mads", "value":"Storm" }]
+      "headers": [{ "key": "Mads", "value":"Fb. Storm" }]
     }]
   }
 }
