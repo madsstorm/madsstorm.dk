@@ -17,12 +17,12 @@
 | [![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com) | Static site generator |
 |:-:|:-:|
 | [![Travis CI](/github_doc/TravisCI-Full-Color.png)](https://travis-ci.org) | Continous integration |
-| [![Netlify](/github_doc/netlify-full-logo-light.png)](https://www.netlify.com) | Build/deploy/host |
-| [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN/firewall/proxy |
+| [![Netlify](/github_doc/netlify-full-logo-light.png)](https://www.netlify.com) | Build, deploy,host |
+| [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN, firewall, proxy |
 | [![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
 
 #### Tried but skipped again
 | [![GitHub pages](/github_doc/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
 |:-:|:-:|
-| [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | So much trouble for HTTPS<br>and custom HTTP headers |
-| [![Firebase](/github_doc/firebase-logo-standard.png)](https://firebase.google.com) | Could not hide Firebase domains |
+| [![Amazon S3](/github_doc/amazon-s3-default.png)](https://aws.amazon.com/s3) | Too much trouble to get HTTPS<br>and custom HTTP headers |
+| [![Firebase](/github_doc/firebase-logo-standard.png)](https://firebase.google.com) | Could not hide default Firebase domains |
