@@ -11,12 +11,16 @@
 [![Chromium HSTS preload](https://img.shields.io/hsts/preload/madsstorm.dk.svg?style=popout)](https://hstspreload.org/)
 [![DNSSEC](https://img.shields.io/badge/DNSSEC-active-brightgreen.svg)](http://dnsviz.net/d/madsstorm.dk/dnssec/)
 
+---
+
 #### Powered by
 | [![Jekyll](/github_doc/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com) | Static site generator |
 |:-:|:-:|
 | [![Netlify](/github_doc/netlify-full-logo-light.png)](https://www.netlify.com) | Build, deploy,host |
 | [![Cloudflare](/github_doc/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN, firewall, proxy |
 | [![Cloudinary](/github_doc/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
+
+---
 
 #### Tried but skipped again
 | [![GitHub pages](/github_doc/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
