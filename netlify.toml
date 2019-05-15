@@ -1,5 +1,6 @@
 [build]
   base = "src/"
+  publish = "src/_site/"
 
 [[redirects]]
   from = "http://madsstorm-dk.netlify.com/*"
