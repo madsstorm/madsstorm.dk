@@ -1,3 +1,6 @@
+[build]
+  base = "src/"
+
 [[redirects]]
   from = "http://madsstorm-dk.netlify.com/*"
   to = "https://madsstorm.dk/:splat"
