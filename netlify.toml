@@ -8,13 +8,7 @@
   to = "https://madsstorm.dk/:splat"
   force = true
   
-[[redirects]]
-  from = "/*"
-  to = "/404/index.html"
-  force = false
-
 [[headers]]
   for = "/*"
-
   [headers.values]
     Mads = "Nf. Storm"
