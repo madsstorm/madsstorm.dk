@@ -15,4 +15,3 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Mads = "Nf. Storm"
