@@ -1,21 +1,20 @@
 language: ruby
 rvm:
-  - 2.4.1
+- 2.4.1
 sudo: false
-#cache: bundler
 notifications:
   email: false
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
-before_install:
- - chmod +x script/cibuild
-
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 branches:
   only:
-    - master
-
+  - master
+before_install:
+- chmod +x script/cibuild
+before_script:
+  - npm install firebase-tools -g
 script: script/cibuild
-  
-after_success: s3_website push
+after_success:
+  - s3_website push
+  - firebase deploy --only hosting --token "$FIREBASE_TOKEN"
