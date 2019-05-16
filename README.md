@@ -22,7 +22,7 @@
 
 ---
 
-#### Tried but skipped again
+#### Tried but skipped
 | [![GitHub pages](/docs/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
 |:-:|:-:|
 | [![Amazon S3](/docs/amazon-s3-default.png)](https://aws.amazon.com/s3) | Too much trouble getting HTTPS<br>and custom HTTP headers |
