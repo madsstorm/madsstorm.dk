@@ -19,6 +19,7 @@
 | [![Netlify](/docs/netlify-full-logo-light.png)](https://www.netlify.com) | Build, deploy,host |
 | [![Cloudflare](/docs/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN, firewall, proxy |
 | [![Cloudinary](/docs/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
+| [![Application Insights](/docs/Application-Insights.png)](https://azure.microsoft.com/en-us/services/monitor/) | Reporting API |
 
 ---
 
