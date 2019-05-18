@@ -16,8 +16,8 @@
 #### Powered by
 | [![Jekyll](/docs/jekyll-logo-black-red-transparent.png)](https://jekyllrb.com) | Static site generator |
 |:-:|:-:|
-| [![Netlify](/docs/netlify-full-logo-light.png)](https://www.netlify.com) | Build, deploy,host |
-| [![Cloudflare](/docs/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN, firewall, proxy |
+| [![Netlify](/docs/netlify-full-logo-light.png)](https://www.netlify.com) | Build, Deploy, Host |
+| [![Cloudflare](/docs/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN, Proxy, DNS |
 | [![Cloudinary](/docs/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
 | [![Azure Functions](/docs/azure.png)](https://azure.microsoft.com/en-us/services/functions) | [Reporting API](https://www.w3.org/TR/reporting) |
 
