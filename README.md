@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/src/android-chrome-192x192.png" alt="madsstorm.dk" title="madsstorm.dk" style="max-width:100%;">
+  <img src="/src/android-chrome-192x192.png" alt="madsstorm.dk" title="madsstorm.dk" style="max-width:100%;">
 </p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/971731f3-90c7-4d1c-b011-2cd9daaec43f/deploy-status)](https://app.netlify.com/sites/madsstorm-dk/deploys)
