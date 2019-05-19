@@ -38,6 +38,16 @@
     Cache-Control = "public, max-age=31536000"
 
 [[headers]]
+  for = "*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "*.webmanifest"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
