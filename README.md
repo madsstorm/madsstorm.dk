@@ -20,12 +20,3 @@
 | [![Cloudflare](/docs/cf-logo-v-rgb.png)](https://www.cloudflare.com) | CDN, Proxy, DNS |
 | [![Cloudinary](/docs/cloudinary_vertical_logo_for_white_bg.png)](https://www.cloudinary.com) | Responsive images |
 | [![Azure Functions](/docs/azure.png)](https://azure.microsoft.com/en-us/services/functions) | [Reporting API](https://www.w3.org/TR/reporting) |
-
----
-
-#### Tried but skipped
-| [![GitHub pages](/docs/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
-|:-:|:-:|
-| [![Amazon S3](/docs/amazon-s3-default.png)](https://aws.amazon.com/s3) | Too much trouble getting HTTPS<br>and custom HTTP headers |
-| [![Firebase](/docs/firebase-logo-standard.png)](https://firebase.google.com) | Could not hide default Firebase domains |
-| [![Travis CI](/docs/TravisCI-Full-Color.png)](https://travis-ci.org) | Not needed with Netlify |
