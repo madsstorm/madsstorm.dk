@@ -24,8 +24,8 @@
 ---
 
 #### Tried but skipped
-| [![GitHub pages](/docs/github-pages.jpg)](https://pages.github.com) | Few Jekyll plugins<br>No custom HTTP headers |
+| GitHub pages | Few Jekyll plugins<br>No custom HTTP headers |
 |:-:|:-:|
-| [![Amazon S3](/docs/amazon-s3-default.png)](https://aws.amazon.com/s3) | Too much trouble getting HTTPS<br>and custom HTTP headers |
-| [![Firebase](/docs/firebase-logo-standard.png)](https://firebase.google.com) | Could not hide default Firebase domains |
-| [![Travis CI](/docs/TravisCI-Full-Color.png)](https://travis-ci.org) | Not needed with Netlify |
+| Amazon S3 | Too much trouble getting HTTPS<br>and custom HTTP headers |
+| Firebase | Could not hide default Firebase domains |
+| Travis CI | Not needed with Netlify |
