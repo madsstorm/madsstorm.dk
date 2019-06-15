@@ -10,7 +10,7 @@
 [![SSL Rating](https://sslbadge.org/?domain=madsstorm.dk)](https://www.ssllabs.com/ssltest/analyze.html?d=madsstorm.dk)
 [![Chromium HSTS preload](https://img.shields.io/hsts/preload/madsstorm.dk.svg?style=popout)](https://hstspreload.org/)
 [![DNSSEC](https://img.shields.io/badge/DNSSEC-active-brightgreen.svg)](http://dnsviz.net/d/madsstorm.dk/dnssec/)
-
+[![](https://codescene.io/projects/5074/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5074/jobs/latest-successful/results)
 ---
 
 #### Powered by
