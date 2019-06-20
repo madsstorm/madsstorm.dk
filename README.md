@@ -3,7 +3,6 @@
 </p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/971731f3-90c7-4d1c-b011-2cd9daaec43f/deploy-status)](https://app.netlify.com/sites/madsstorm-dk/deploys)
-[![Maintainability](https://api.codeclimate.com/v1/badges/0f0c0fa3435cdea031eb/maintainability)](https://codeclimate.com/github/madsstorm/madsstorm.dk/maintainability)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/alerts/)
 [![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/madsstorm.dk.svg?style=popout)](https://observatory.mozilla.org/analyze/madsstorm.dk)
