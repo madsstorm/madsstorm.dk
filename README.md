@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/src/android-chrome-192x192.png" alt="madsstorm.dk" title="madsstorm.dk" style="max-width:100%;">
-</p>
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/971731f3-90c7-4d1c-b011-2cd9daaec43f/deploy-status)](https://app.netlify.com/sites/madsstorm-dk/deploys)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/madsstorm/madsstorm.dk.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/madsstorm/madsstorm.dk/alerts/)
